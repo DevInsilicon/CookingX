@@ -1,0 +1,6 @@
+name: CookingX
+version: '1.0'
+main: dev.insilicon.cookingX.CookingX
+api-version: '1.21'
+prefix: CX
+authors: [ ModdedKid ]
