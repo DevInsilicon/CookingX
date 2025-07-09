@@ -1,0 +1,12 @@
+# Datastorage is required for this plugin. Please choose between Sqlite and a MySQL database.
+storage:
+
+  # Can be MySql or Sqlite
+  method: MySql
+
+  mysql:
+    host: host.docker.internal
+    port: 10501
+    username: admin
+    password: admin
+    database: cookingx
